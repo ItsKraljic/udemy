@@ -1,0 +1,23 @@
+{
+  "name": "proyectofesti",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp SASS Y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsKraljic/udemy.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Uriel Barrios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsKraljic/udemy/issues"
+  },
+  "homepage": "https://github.com/ItsKraljic/udemy#readme"
+}
